@@ -1,0 +1,55 @@
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\stanford_area_2_vox16\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\Church_vox16.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reChurch_vox16.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\Church_vox16.bin">"Church_vox16.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\stanford_area_2_vox16\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\Courthouse_vox16.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reCourthouse_vox16.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\Courthouse_vox16.bin">"Courthouse_vox16.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\facade_00064_vox11\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\Ignatius_vox11.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reIgnatius_vox11.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\Ignatius_vox11.bin">"Ignatius_vox11.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_hires_vox15\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\QQdog_vox15.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reQQdog_vox15.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\QQdog_vox15.bin">"QQdog_vox15.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_hires_vox15\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\Truck_vox15.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reTruck_vox15.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\Truck_vox15.bin">"Truck_vox15.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\facade_00015_vox14\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\apollo_vox14.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reapollo_vox14.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\apollo_vox14.bin">"apollo_vox14.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_vox13\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\bicycle_vox13.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\rebicycle_vox13.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\bicycle_vox13.bin">"bicycle_vox13.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_vox13\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\building_vox13.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\rebuilding_vox13.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\building_vox13.bin">"building_vox13.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_hires_vox15\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\caiman_vox15.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\recaiman_vox15.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\caiman_vox15.bin">"caiman_vox15.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_vox13\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\candlestick_vox13.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\recandlestick_vox13.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\candlestick_vox13.bin">"candlestick_vox13.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\facade_00015_vox14\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\casket_vox14.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\recasket_vox14.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\casket_vox14.bin">"casket_vox14.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\arco_valentino_dense_vox12\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\chair_vox12.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\rechair_vox12.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\chair_vox12.bin">"chair_vox12.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_vox13\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\clock1_vox13.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reclock1_vox13.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\clock1_vox13 .bin">"clock1_vox13.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\facade_00015_vox14\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\mosquito_vox14.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\remosquito_vox14.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\mosquito_vox14.bin">"mosquito_vox14.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_hires_vox15\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\puppet_vox15.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\repuppet_vox15.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\puppet_vox15.bin">"puppet_vox15.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\ulb_unicorn_vox13\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\shoes_vox13.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reshoes_vox13.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\shoes_vox13.bin">"shoes_vox13.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\arco_valentino_dense_vox12\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\vessel4_vox12.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\revessel4_vox12.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\vessel4_vox12.bin">"vessel4_vox12.log"
+
+--config="E:\download\mpeg-pcc-tmc13-mpeg139-mtg-Adopted-tools\cfg\octree-predlift\lossless-geom-lossless-attrs\facade_00015_vox14\\encoder.cfg" --frameCount=1  --uncompressedDataPath="D:\avspcrm6.0\exdata\\violin1_vox14.ply" --reconstructedDataPath="D:\avspcrm6.0\exdata\\reviolin1_vox14.ply" --compressedStreamPath="D:\avspcrm6.0\exdata\\violin1_vox14.bin">"violin1_vox14.log"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
